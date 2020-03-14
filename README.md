@@ -12,8 +12,8 @@ Seguindo esta lógica, preferencialmente os mini-aplicativos são executados da 
 `<comando> <pr1> <pr2> <pr n...>`
 
 Onde:
-* <comando> = nome do mini-aplicativo
-* <pr> = parâmetros da questão.
+* `<comando>` = nome do mini-aplicativo
+* `<pr>` = parâmetros da questão.
 
 ## Dicas de uso:
 
