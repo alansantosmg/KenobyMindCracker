@@ -34,22 +34,25 @@ Onde:
 ## Contribua:
 Caso apareça uma questão diferente, tente decorar rapidamente o enunciado, anote os dados e depois abra uma issue no projeto com sugestão para inclusão na suite.
 
+### Instalação
 
-## Mini Aplicativos
+* kmc.tar.gz --> binários linux.
+* kmc.zip --> binários windows.
+* kmc_source.go --> source code.
 
+### Utilização
+
+1. baixe o pacote do programa conforme sistema utilizado.
+2. descompacte o pacote em um diretório
+3. abra um terminal e execute o aplicativo conforme instruções abaixo.
+
+## Mini-Aplicativos
 
 ### kmcBee
 
 kmcBee - é um aplicativo de linha de comando que ajuda a resolver o "problema das abelhas" e similares, quando uma grandeza é inversamente proporcional à outra.
 
 Por exemplo:  Quanto mais recursos, menos tempo para realizar uma tarefa e vice versa.
-
-#### Funcionamento
-
-1. Baixe o pacote do programa conforme sistema utilizado.
-2. Descompacte o pacote em um diretório
-3. Abra um terminal e execute o aplicativo conforme instruções abaixo.
-
 
 ##### Exemplo 1:
 	3000 abelhas --> 50 dias
@@ -65,7 +68,19 @@ Por exemplo:  Quanto mais recursos, menos tempo para realizar uma tarefa e vice 
 * Linux ---->	Execute: `kmcBee 3000 50 x 37.5`
 * Windows --> Execute: `kmcBee.exe 3000 50 x 37.5`
 
-#### pacotes:
-* kmcBee.tar.gz --> binário linux. Não esqueça de dar permissão de execução com o comando `chmod +x kmcBee`
-* kmcBee.zip --> binário windows.
-* kmcBee.go --> source code
+### kmcAges
+
+KmcAges - Resolve problema sobre encontrar a idade de uma pessoa usando a diferença de médias de idade entre 2 grupos
+
+#### Funcionamento
+
+1. baixe o pacote do programa conforme sistema utilizado.
+2. descompacte o pacote em um diretório
+3. abra um terminal e execute o aplicativo conforme instruções abaixo.
+
+A Média das idades de Tibério e Ranulfo é 45 anos (2 pessoas).
+A média das idades de Tibério, Ranulfo e Josefina é 40 anos (3 pessoas).
+Qual a idade de Josefina?
+
+Linux --> Execute: `kmcAges 45 2 40 3`
+Windows --> Execute: `kmcAges.exe 45 2 40 3`
