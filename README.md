@@ -77,10 +77,10 @@ KmcAges - Resolve problema sobre encontrar a idade de uma pessoa usando a difere
 1. baixe o pacote do programa conforme sistema utilizado.
 2. descompacte o pacote em um diretório
 3. abra um terminal e execute o aplicativo conforme instruções abaixo.
-
+```
 A Média das idades de Tibério e Ranulfo é 45 anos (2 pessoas).
 A média das idades de Tibério, Ranulfo e Josefina é 40 anos (3 pessoas).
-Qual a idade de Josefina?
+Qual a idade de Josefina?```
 
 Linux --> Execute: `kmcAges 45 2 40 3`
 Windows --> Execute: `kmcAges.exe 45 2 40 3`
