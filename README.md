@@ -34,13 +34,11 @@ Onde:
 ## Contribua:
 Caso apareça uma questão diferente, tente decorar rapidamente o enunciado, anote os dados e depois abra uma issue no projeto com sugestão para inclusão na suite.
 
-### Instalação
+## Instalação
 
 * kmc.tar.gz --> binários linux.
 * kmc.zip --> binários windows.
 * kmc_source.go --> source code.
-
-### Utilização
 
 1. baixe o pacote do programa conforme sistema utilizado.
 2. descompacte o pacote em um diretório
