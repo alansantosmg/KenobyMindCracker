@@ -84,5 +84,5 @@ A média das idades de Tibério, Ranulfo e Josefina é 40 anos (3 pessoas).
 Qual a idade de Josefina?
 ```
 
-Linux --> Execute: `kmcAges 45 2 40 3`
-Windows --> Execute: `kmcAges.exe 45 2 40 3`
+* Linux --> Execute: `kmcAges 45 2 40 3`
+* Windows --> Execute: `kmcAges.exe 45 2 40 3`
